@@ -21,7 +21,6 @@
 ## 技能考核要点  
   1. 能听懂语速正常的英语节目（也可是美剧脱口秀等），并能复述大致内容。   
     - 例如: https://www.youtube.com/watch?v=vUq_f2kp6vE  
-    https://www.c-span.org/video/?159079-1/president-jiang-interview
   2. 能理解常用词汇构成的文章并掌握细节。  
     - 例如: https://www.economist.com/special-report/2018/06/28/china-has-the-worlds-most-centralised-internet-system  
     http://rmc.library.cornell.edu/gettysburg/good_cause/transcript.htm
